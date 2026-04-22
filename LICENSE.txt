@@ -1,0 +1,38 @@
+Copyright (c) 2026 Mebusan AI PTE LTD. All rights reserved.
+
+This source code and all associated documentation, assets, and data (the
+"Software") are proprietary and confidential to Mebusan AI PTE LTD, a
+company incorporated in Singapore (the "Company").
+
+The Software is made available only to authorised personnel and contractors
+of the Company for the purpose of maintaining, operating, and extending the
+Company's private-intelligence platform.
+
+You may not, without prior written permission of the Company:
+
+  1. Copy, distribute, publish, or host the Software, in whole or in part,
+     other than as required for the Company's own production deployment.
+
+  2. Modify, adapt, translate, or create derivative works based on the
+     Software for any purpose unrelated to the Company's operation.
+
+  3. Reverse engineer, decompile, or disassemble any compiled components,
+     nor bypass or circumvent any technical measure protecting the Software.
+
+  4. Use the Software to provide services to any third party, whether or
+     not for commercial gain.
+
+  5. Remove, alter, or obscure any proprietary notice, branding, or
+     attribution contained in the Software.
+
+The Software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and non-infringement. In no event shall
+the Company be liable for any claim, damages, or other liability arising
+from, out of, or in connection with the Software or its use.
+
+This licence is governed by the laws of Singapore. Any dispute arising out
+of or in connection with this licence shall be subject to the exclusive
+jurisdiction of the courts of Singapore.
+
+For permissions or questions, contact: legal@mebusan.com
